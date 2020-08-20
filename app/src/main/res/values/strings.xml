@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title">Trivia</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_btn_description">Go To Next</string>
+    <string name="prev_btn_description">Go To Previous</string>
+    <string name="default_counter_text">Default: question 0 / 0</string>
+    <string name="default_score_text">Default: score 0</string>
+    <string name="default_hi_score_text">Default: hi score 0</string>
+    <string name="reset_high_score">Reset High Score</string>
+</resources>
